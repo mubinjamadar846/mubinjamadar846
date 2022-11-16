@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mubinjamadar846
 - 👀 I’m interested in Programming,Fitness, Travelling and learning new things.
-- 🌱 I’m currently studying B.tech CSE(Third year) and also learning python and basic coding
+- 🌱 I’m currently studying B.tech CSE(Last year) and also learning python and basic coding
 - 📫 How to reach me mubinjamadar846@gmail.com
 
 <!---
